@@ -1,4 +1,4 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "MASTER-SAR-DEPLOY",
-    "liveServer.settings.port": 7800
+    "liveServer.settings.multiRootWorkspaceName": "Export-Alert",
+    "liveServer.settings.port": 12125,
 }
